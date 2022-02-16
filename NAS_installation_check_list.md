@@ -6,6 +6,7 @@
 6. Update all necessary updates and applications.
 7. Login Synology account for DDNS
 8. Install Tailscale for remote access
+9. Config tailscale node as exit node (sudo tailscale up --advertise-routes=192.168.1.0/24 --reset)
 
 ### Applications
 1. Files
